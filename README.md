@@ -1,1 +1,1 @@
-Elustrate Numpy packages in Python
+Illustrate Numpy packages in Python
